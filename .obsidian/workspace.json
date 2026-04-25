@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "4f8db4ca99cd79b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "53eff1991c5ae571",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d93f243272a5f82",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b3f3498aa108d7cb",
+    "type": "split",
+    "children": [
+      {
+        "id": "ee7d20fcfd05359e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4860babe8ddbafd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a323cb233740a5ef",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "af59c419df33a633",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 495.5
+  },
+  "right": {
+    "id": "0f4d03dba24dfab7",
+    "type": "split",
+    "children": [
+      {
+        "id": "8487890274ef2393",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22b84590e4f1d913",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "1ccdfb0c22f1f8f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Learning/Economics/Intro to Economics - Crash Course Econ #1.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Intro to Economics - Crash Course Econ #1"
+            }
+          },
+          {
+            "id": "d991b019a17ddcac",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "62abd0c4c76fae9b",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ef3be484dab7dc57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "6d93f243272a5f82",
+  "lastOpenFiles": [
+    "class_resources/pasar_finansial/week6_bond_valuation_extras.md",
+    "class_resources/pasar_finansial/week6_bond_valuation_and_risk.md",
+    "class_resources/pasar_finansial/week5_money_markets_and_bond_markets.md",
+    "class_resources/pasar_finansial/week4_monetary_policy_in_indonesia.md",
+    "class_resources/pasar_finansial/week4_monetary_policy.md",
+    "class_resources/pasar_finansial/week3_functions_of_central_bank_the_fed.md",
+    "class_resources/pasar_finansial/week3_functions_of_central_bank.md",
+    "class_resources/pasar_finansial/week6_bond_valuation_extras.pdf",
+    "class_resources/pasar_finansial/week6_bond_valuation_and_risk.pdf",
+    "class_resources/pasar_finansial/week5_money_markets_and_bond_markets.pdf",
+    "class_resources/pasar_finansial/week4_monetary_policy_in_indonesia.pdf",
+    "class_resources/pasar_finansial/week4_monetary_policy.pdf",
+    "class_resources/pasar_finansial/week3_functions_of_central_bank.pdf",
+    "class_resources/pasar_finansial/week3_functions_of_central_bank_the_fed.pdf",
+    "Learning/Financial Markets/Week 2 - Determination of Interest Rates and Structure of Interest Rates.md",
+    "Learning/Financial Markets/Term Structure of Interest Rates.md",
+    "Learning/Financial Markets/Modeling the Yield to be Offered on a Debt Security.md",
+    "Learning/Financial Markets/Why Debt Security Yields Vary.md",
+    "Learning/Financial Markets/Factors That Affect Interest Rates.md",
+    "Learning/Financial Markets/Sessions/Determination of Interest Rates and Structure of Interest Rates.md",
+    "Learning/Financial Markets/Loanable Funds Theory.md",
+    "Learning/Financial Markets/Week 1 - Role of Financial Markets and Institutions.md",
+    "Learning/Financial Markets/Systemic Risk.md",
+    "Learning/Financial Markets/Nondepository Institutions.md",
+    "Learning/Financial Markets/Depository Institutions.md",
+    "Learning/Financial Markets/Role of Financial Institutions.md",
+    "Learning/Financial Markets/Capital Market Securities.md",
+    "Learning/Financial Markets/Money Market Securities.md",
+    "Learning/Financial Markets/Sessions/Role of Financial Markets and Institutions.md",
+    "Learning/Financial Markets/Sessions",
+    "Learning/FinancialMarkets/Sessions/Role of Financial Markets and Institutions.md",
+    "Learning/FinancialMarkets/Financial Intermediation.md",
+    "Learning/FinancialMarkets/Surplus and Deficit Units.md",
+    "Learning/FinancialMarkets/Financial Markets.md",
+    "Learning/FinancialMarkets/Sessions",
+    "Learning/FinancialMarkets",
+    "Untitled.canvas"
+  ]
+}
